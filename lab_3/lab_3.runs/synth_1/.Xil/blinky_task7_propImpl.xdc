@@ -1,0 +1,7 @@
+set_property SRC_FILE_INFO {cfile:C:/Users/jeric/Desktop/NUS/EE2026-Labs-git/lab_3/lab_3.srcs/constrs_1/new/constraints.xdc rfile:../../../lab_3.srcs/constrs_1/new/constraints.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:7 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN W5 [get_ports CLOCK]
+set_property src_info {type:XDC file:1 line:12 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN V17 [get_ports {SW0}]
+set_property src_info {type:XDC file:1 line:47 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN U16 [get_ports {LED}]
